@@ -1,0 +1,7 @@
+Link to embed this content:
+https://app.fabric.microsoft.com/reportEmbed?reportId=debab412-99ef-49c7-9cee-1ca1e1b4f493&autoAuth=true&ctid=bd697c1b-c481-479c-841e-c618542675c3&actionBarEnabled=true
+
+or
+
+HTML to paste on a website
+<iframe title="PowerBI Chart - OlistBR data visual" width="1140" height="541.25" src="https://app.fabric.microsoft.com/reportEmbed?reportId=debab412-99ef-49c7-9cee-1ca1e1b4f493&autoAuth=true&ctid=bd697c1b-c481-479c-841e-c618542675c3&actionBarEnabled=true" frameborder="0" allowFullScreen="true"></iframe>
